@@ -1,0 +1,162 @@
+{
+    "data": [
+        {
+            "name": "Social Media Apps",
+            "image": "social",
+            "appsList": [
+                {
+                    "name": "Youtube",
+                    "image": "app_8"
+                },
+                {
+                    "name": "Facebook",
+                    "image": "app_7"
+                },
+                {
+                    "name": "Instagram",
+                    "image": "app_6"
+                },
+                {
+                    "name": "Twitter",
+                    "image": "app_5"
+                },
+                {
+                    "name": "LinkedIn",
+                    "image": "app_4"
+                },
+                {
+                    "name": "Pinterest",
+                    "image": "app_3"
+                },
+                {
+                    "name": "WhatsApp",
+                    "image": "app_2"
+                },
+                {
+                    "name": "SnapChat",
+                    "image": "app_1"
+                },
+                {
+                    "name": "Messanger",
+                    "image": "app_8"
+                },
+                {
+                    "name": "Tiktok",
+                    "image": "app_7"
+                },
+                {
+                    "name": "Discord",
+                    "image": "app_6"
+                }
+            ]
+        },
+        {
+            "name": "Shopping Apps",
+            "image": "shopping",
+            "appsList": [
+                {
+                    "name": "Flipkart Online Shopping App",
+                    "image": "app_1"
+                },
+                {
+                    "name": "Amazon India Shop, Pay, miniTV",
+                    "image": "app_2"
+                },
+                {
+                    "name": "AJIO - House Of Brands",
+                    "image": "app_3"
+                },
+                {
+                    "name": "Tata CLiQ Online Shopping App",
+                    "image": "app_4"
+                },
+                {
+                    "name": "Meesho: Online Shopping App",
+                    "image": "app_5"
+                },
+                {
+                    "name": "Myntra - Fashion Shopping App",
+                    "image": "app_6"
+                },
+                {
+                    "name": "Shopsy",
+                    "image": "app_7"
+                },
+                {
+                    "name": "Nykaa: Beauty Shopping App",
+                    "image": "app_8"
+                },
+                {
+                    "name": "Urbanic - Fashion from London",
+                    "image": "app_1"
+                },
+                {
+                    "name": "Purplle Online Beauty Shopping",
+                    "image": "app_2"
+                },
+                {
+                    "name": "Bewakoof - Online Shopping App",
+                    "image": "app_3"
+                },
+                {
+                    "name": "ShopClues Bazaar: Shopping App",
+                    "image": "app_4"
+                },
+                {
+                    "name": "Mamaearth: Beauty Shopping App",
+                    "image": "app_5"
+                },
+                {
+                    "name": "Lenskart : Eyeglasses & More",
+                    "image": "app_6"
+                },
+                {
+                    "name": "Nykaa Fashion – Shopping App",
+                    "image": "app_7"
+                },
+                {
+                    "name": "FirstCry India - Baby & Kids",
+                    "image": "app_8"
+                },
+                {
+                    "name": "Snapdeal: Online Shopping App",
+                    "image": "app_1"
+                },
+            ]
+        },
+        {
+            "name": "Business Apps",
+            "image": "business",
+            "appsList": [
+                {
+                    "name": "Skype",
+                    "image": "app_7"
+                },
+                {
+                    "name": "Slack",
+                    "image": "app_6"
+                },
+                {
+                    "name": "Asana",
+                    "image": "app_5"
+                },
+                {
+                    "name": "Microsoft Teams",
+                    "image": "app_4"
+                },
+                {
+                    "name": "Trello",
+                    "image": "app_3"
+                },
+                {
+                    "name": "Zoom",
+                    "image": "app_2"
+                },
+                {
+                    "name": "Meet",
+                    "image": "app_1"
+                }
+            ]
+        }
+    ]
+}
